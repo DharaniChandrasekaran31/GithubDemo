@@ -1,1 +1,1 @@
-Comment Line Added
+It is a JAVA file.
